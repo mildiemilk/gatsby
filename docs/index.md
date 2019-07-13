@@ -1,3 +1,3 @@
 # Topic
  
-- [Object Comparison](/learning-by-doing/src/pages/index)
+- [Object Comparison](/learning-by-doing/src/pages)
