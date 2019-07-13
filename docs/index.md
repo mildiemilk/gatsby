@@ -1,2 +1,3 @@
 # Topic
-## [Object Comparison](/learning-by-doing/markdown-pages/post-1)
+
+## [Object Comparison](/learning-by-doing/src/markdown-pages/post-1)
