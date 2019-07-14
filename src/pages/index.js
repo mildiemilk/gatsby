@@ -17,6 +17,5 @@ const IndexPage = () => (
     <Link to="/blog/my-first-post/">Go to my first Markdown blog post</Link>
   </Layout>
 )
-// const rootElem = document.getElementById('root')
-ReactDOM.render(<IndexPage />, document.getElementById('root'))
-// export default IndexPage
+// ReactDOM.render(<IndexPage />, document.getElementById('root'))
+export default IndexPage
