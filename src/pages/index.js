@@ -14,7 +14,7 @@ const IndexPage = () => (
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
-    <Link to="/blog/my-first-post/">Go to my first Markdown blog post</Link>
+    <Link to="/learning-by-doing/blog/my-first-post/">Go to my first Markdown blog post</Link>
   </Layout>
 )
 // ReactDOM.render(<IndexPage />, document.getElementById('root'))
